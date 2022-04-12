@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.0.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="1.350072000000000" minlon="103.757175300000000" maxlat="1.412852300000000" maxlon="103.889730200000002"/></metadata>                  
+<trk>
+<name>Singapore Cycling Route</name>
+<number>2</number>
+<trkseg>
+<trkpt lat="1.350072" lon="103.8897302">
+  <name>Start</name>
+</trkpt>
+<trkpt lat="1.3700465" lon="103.8770058">
+  <name>Checkpoint 2</name>
+</trkpt>
+<trkpt lat="1.3908004" lon="103.8594426">
+  <name>Checkpoint 3</name>
+</trkpt>
+<trkpt lat="1.3783586" lon="103.828844">
+  <name>Checkpoint 4</name>
+</trkpt>
+<trkpt lat="1.4128523" lon="103.8063563">
+  <name>Checkpoint 5</name>
+</trkpt>
+<trkpt lat="1.409892" lon="103.7732257">
+  <name>Checkpoint 6</name>
+</trkpt>
+<trkpt lat="1.4118226" lon="103.7571753">
+  <name>Checkpoint 7</name>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

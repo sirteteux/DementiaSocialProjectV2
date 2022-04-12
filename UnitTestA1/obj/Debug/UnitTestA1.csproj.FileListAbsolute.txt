@@ -1,0 +1,53 @@
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\UnitTestA1.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\UnitTestA1.pdb
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Assignment1.exe
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\GMap.NET.Core.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\System.Data.SQLite.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Interop.WMPLib.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Assignment1.pdb
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Assignment1.exe.config
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\System.Data.SQLite.xml
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.csproj.CopyComplete
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.dll
+C:\Users\andre\Desktop\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.pdb
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\UnitTestA1.dll.config
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\UnitTestA1.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\UnitTestA1.pdb
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Assignment1.exe
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\GMap.NET.Core.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\AxInterop.WMPLib.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\System.Data.SQLite.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Newtonsoft.Json.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Interop.WMPLib.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Assignment1.pdb
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Assignment1.exe.config
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\System.Data.SQLite.xml
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\bin\Debug\Newtonsoft.Json.xml
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.csproj.AssemblyReference.cache
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.csproj.CoreCompileInputs.cache
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.csproj.CopyComplete
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.dll
+D:\Kaplan\Software Development Frameworks\Assignment 1\ICT365_A1_Andreas_Lau\UnitTestA1\obj\Debug\UnitTestA1.pdb

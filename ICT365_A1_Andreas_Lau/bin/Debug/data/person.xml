@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<people>
+  <person id="0">
+    <name>Andreas</name>
+    <relation>Friend</relation>
+    <imageUrl>./examples/contact-photos/andreas.jpg</imageUrl>
+  </person>
+  <person id="1">
+    <name>Lee Hsien Loong</name>
+    <relation>Friend</relation>
+    <imageUrl>./examples/contact-photos/lhl.jpg</imageUrl>
+  </person>
+  <person id="2">
+    <name>Mark Zuckerberg</name>
+    <relation>Brother</relation>
+    <imageUrl>./examples/contact-photos/mark.jpg</imageUrl>
+  </person>
+  <person id="3">
+    <name>Donald Trump</name>
+    <relation>Uncle</relation>
+    <imageUrl>./examples/contact-photos/donald.jpg</imageUrl>
+  </person>
+  <person id="4">
+    <name>Kim Jong Un</name>
+    <relation>Dad</relation>
+    <imageUrl>./examples/contact-photos/kim.jpg</imageUrl>
+  </person>
+  <person id="5">
+    <name>Andreas</name>
+    <relation>Friend</relation>
+    <imageUrl></imageUrl>
+  </person>
+  <person id="6">
+    <name>Me</name>
+    <relation>Friend</relation>
+    <imageUrl></imageUrl>
+  </person>
+</people>

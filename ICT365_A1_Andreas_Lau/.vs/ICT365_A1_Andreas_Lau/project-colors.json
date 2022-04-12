@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b9aa952-09a9-4724-8edf-f72b884bf356": {
+      "ProjectGuid": "3b9aa952-09a9-4724-8edf-f72b884bf356",
+      "DisplayName": "ICT365_A1_Andreas_Lau",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ac2db6ad-9532-468e-929b-482a92821a6d": {
+      "ProjectGuid": "ac2db6ad-9532-468e-929b-482a92821a6d",
+      "DisplayName": "A1UnitTest",
+      "ColorIndex": 1
+    },
+    "a9f8a728-44c9-4460-81e9-2146c64a9979": {
+      "ProjectGuid": "a9f8a728-44c9-4460-81e9-2146c64a9979",
+      "DisplayName": "UnitTestA1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
